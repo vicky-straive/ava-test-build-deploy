@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": "1001",
+            "code": "f030fh0g3",
+            "name": "Sprite Fight",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "video": {
+                "url": "https://files.vidstack.io/sprite-fight/720p.mp4",
+                "preview": "https://files.vidstack.io/sprite-fight/poster.webp",
+                "size": "2.5 MB",
+                "type": "video/mp4",
+                "duration": "3:30 min"
+            }
+        }, 
+        {
+            "id": "1001",
+            "code": "f030fh0g3",
+            "name": "Beautiful Background 3",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "video": {
+                "url": "https://www.youtube.com/watch?v=vOXZkm9p_zY",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "video/mp4",
+                "duration": "3:30 min"
+            }
+        },
+        {
+            "id": "1001",
+            "code": "f030fh0g3",
+            "name": "Beautiful Background 2",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "video": {
+                "url": "https://varafybotautomation.s3.ap-south-1.amazonaws.com/DEV/VideoPostAutomation/IN/83543435.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVG4SM7ZRJSJKJ5GS%2F20240731%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240731T115049Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=991ea308918450f6f816ae5a98848c1e41e76c709e4005ca7b3ce9d1dadaf534",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "video/mp4",
+                "duration": "3:30 min"
+            }
+        },
+        {
+            "id": "1002",
+            "code": "f23hbnh0g3",
+            "name": "AI Audio 2",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "audio": {
+                "url": "https://assets.codepen.io/6093409/river.mp4",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "audio/mp3",
+                "duration": "3:30 min"
+            }
+        },
+        {
+            "id": "1002",
+            "code": "f23hbnh0g3",
+            "name": "AI Audio",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "audio": {
+                "url": "https://assets.codepen.io/6093409/river.mp4",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "audio/mp3",
+                "duration": "3:30 min"
+            }
+        },
+       
+        {
+            "id": "1002",
+            "code": "f23hbnh0g3",
+            "name": "AI Audio 3",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "audio": {
+                "url": "https://drive.google.com/file/d/14Cr6AC7-_ITOsBkdq5mnB9QOqOsumTmi/view?usp=drive_link",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "audio/mp3",
+                "duration": "3:30 min"
+            }
+        }
+    ]
+}
